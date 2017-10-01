@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAA Post Apocolypse TDPS.Plugins", "AAA Post Apocolypse TDPS.Plugins.csproj", "{2941D847-3622-0AEC-ABDC-DE20EA470F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAA Post Apocolypse TDPS", "AAA Post Apocolypse TDPS.csproj", "{3CDE7044-9F9F-2F7F-C895-CA08CE6F644C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAA Post Apocolypse TDPS.Editor.Plugins", "AAA Post Apocolypse TDPS.Editor.Plugins.csproj", "{82CBDC5E-FAB5-0227-8D22-E4FC7A888C58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2941D847-3622-0AEC-ABDC-DE20EA470F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2941D847-3622-0AEC-ABDC-DE20EA470F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2941D847-3622-0AEC-ABDC-DE20EA470F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2941D847-3622-0AEC-ABDC-DE20EA470F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDE7044-9F9F-2F7F-C895-CA08CE6F644C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDE7044-9F9F-2F7F-C895-CA08CE6F644C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDE7044-9F9F-2F7F-C895-CA08CE6F644C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDE7044-9F9F-2F7F-C895-CA08CE6F644C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CBDC5E-FAB5-0227-8D22-E4FC7A888C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CBDC5E-FAB5-0227-8D22-E4FC7A888C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CBDC5E-FAB5-0227-8D22-E4FC7A888C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CBDC5E-FAB5-0227-8D22-E4FC7A888C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
